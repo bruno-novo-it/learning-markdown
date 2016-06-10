@@ -25,7 +25,7 @@ No dia seguinte começamos a estudar e, o melhor de tudo, **fui efetivado!**
 
 (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
 
-<img src= "hhttps://github.com/cs-bruno-novo/learning-markdown/blob/master/LinuxLogo.png" width="500" height="450" alt="Linux">
+<img src="hhttps://github.com/cs-bruno-novo/learning-markdown/blob/master/LinuxLogo.png" width="500" height="450" alt="Linux">
 
 #### <i class="icon-file"></i> Aprendendo Linux
 
