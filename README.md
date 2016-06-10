@@ -76,7 +76,7 @@ Comandos do Docker:
 
 
 
-![](http://blog.concretesolutions.com.br/wp-content/uploads/2015/08/logoheader.png)
+![](https://github.com/cs-bruno-novo/learning-markdown/blob/master/logo-cs.jpg)
 
 
 ### Utilizei muita coisa mas coloquei alguns links interessantes:
