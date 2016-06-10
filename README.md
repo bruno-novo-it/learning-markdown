@@ -74,6 +74,9 @@ Comandos do Docker:
 
 ----------
 
+Ainda por cima, ja sou certificado no Jenkins:
+
+<img src="https://github.com/cs-bruno-novo/learning-markdown/blob/master/Certificado.png" width="500" height="450" alt="CertificadoJenkins">
 
 
 ![](https://github.com/cs-bruno-novo/learning-markdown/blob/master/logo-cs.jpg)
